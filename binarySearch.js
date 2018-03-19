@@ -1,3 +1,11 @@
+
+/**
+ * 二分法查找
+ * 
+ * @param {any} list 
+ * @param {any} item 
+ * @returns 
+ */
 function binary_search(list, item) {
   let low = 0
   let high = list.length - 1

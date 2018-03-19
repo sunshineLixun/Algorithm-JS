@@ -1,3 +1,9 @@
+/**
+ * 快速排序
+ * 
+ * @param {any} array 
+ * @returns 
+ */
 function quickSort(array) {
   if (!Array.isArray(array)) {
     return
