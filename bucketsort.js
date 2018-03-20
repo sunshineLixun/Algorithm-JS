@@ -4,7 +4,7 @@
  * 
  * @returns 
  */
-function bucketsort() {
+function bucketsort(list) {
   if (!Array.isArray(list)) return;
 
   let arrayA = []
